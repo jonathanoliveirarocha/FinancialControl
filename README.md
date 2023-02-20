@@ -1,7 +1,7 @@
-# Controle-financeiro
-Projeto simples utilizando React.JS para controle financeiro. Projeto feito com o intuito de aprendizagem com base no seguinte vídeo: <a href="https://www.youtube.com/watch?v=pj4vA67olbU">Sistema de Controle de Finanças com React.JS! 🔥</a>
+# Financial Control
+Simple project using React.JS for financial control. Project with the purpose of learning based on the following video: <ahref="https://www.youtube.com/watch?v=pj4vA67olbU">Sistema de Controle de Finanças com React.JS! 🔥</a>
 
-Para inicar o projeto, basta dar o seguinte comando:
+To start the project, just enter the following command:
 ```bash
 yarn start
 
