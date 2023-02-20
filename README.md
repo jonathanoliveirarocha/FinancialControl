@@ -1,5 +1,5 @@
 # Financial Control
-Simple project using React.JS for financial control. Project with the purpose of learning based on the following video: <a href="https://www.youtube.com/watch?v=pj4vA67olbU">Sistema de Controle de Finanças com React.JS! 🔥</a>
+Simple project using React.JS for financial control. Project with the purpose of learning, based on the following video: <a href="https://www.youtube.com/watch?v=pj4vA67olbU">Sistema de Controle de Finanças com React.JS! 🔥</a>
 
 To start the project, just enter the following command:
 ```bash
